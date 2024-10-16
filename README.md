@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : Preetha S
-### Roll no :212222230110
+### Name: Preetha S
+### Roll no: 212222230110
 
 
 ## Aim:
