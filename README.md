@@ -74,7 +74,8 @@ HLT
 
 ## Output  
 
-![image](https://github.com/user-attachments/assets/cc922b53-ef9e-49d3-8de3-685aa0fe9c9e)
+![image](https://github.com/user-attachments/assets/5d9fa17f-f35d-41b1-aa96-37cee71343b4)
+
 
 
 ## Division alp 
@@ -87,7 +88,8 @@ HLT
 
 ## Output  
 
-![image](https://github.com/user-attachments/assets/e00be56a-2f3f-47d8-a26e-1b7af4c7d308)
+![image](https://github.com/user-attachments/assets/8204d5a4-33e6-43da-b1c6-e0afcc03f38d)
+
 
 ## Programs for logical operations
 
