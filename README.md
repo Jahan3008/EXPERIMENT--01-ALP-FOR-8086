@@ -49,7 +49,7 @@ HLT
 ```
 ## Output  
 
-![image](https://github.com/user-attachments/assets/05d0784f-8a11-4578-9a27-4958c7864efd)
+![image](https://github.com/user-attachments/assets/5c7a8688-895c-49ff-97bd-eb85574ae575)
 
  
 ## Subtraction   of 8 bit numbers  ALP 
@@ -62,7 +62,8 @@ HLT
  
 ## Output 
 
-![image](https://github.com/user-attachments/assets/cd087c37-3b38-4fa1-9a93-061fca7ad4c5)
+![image](https://github.com/user-attachments/assets/9b6c68cc-be62-4f22-baca-f54c27e06efb)
+
 
 ## Multiplication alp 
 ```
